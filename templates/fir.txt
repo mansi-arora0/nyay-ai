@@ -1,0 +1,24 @@
+🚨 First Information Report (FIR)
+
+To,
+The Officer In Charge
+[Police Station Name]
+[District], [City]
+
+Subject: Filing of FIR regarding {{issue_type}}
+
+Respected Sir/Madam,
+
+I, {{full_name}}, resident of {{address}}, wish to lodge a complaint regarding {{incident_description}}.
+
+Details of the incident:
+- Date & Time: {{date_time}}
+- Location: {{location}}
+- People Involved: {{people_involved}}
+- Description: {{detailed_description}}
+
+I request you to kindly register my complaint as an FIR and take necessary legal action.
+
+Thanking you,
+{{full_name}}
+Contact: {{phone_number}}

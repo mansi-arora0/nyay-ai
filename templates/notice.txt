@@ -1,0 +1,21 @@
+📬 Legal Notice
+
+From:  
+{{sender_name}}  
+{{sender_address}}  
+Contact: {{sender_contact}}
+
+To:  
+{{receiver_name}}  
+{{receiver_address}}
+
+Subject: Legal Notice for {{reason}}
+
+Dear {{receiver_name}},
+
+I am writing to formally notify you that {{incident_details}}. Despite previous communication, the matter remains unresolved.
+
+Through this notice, you are hereby required to resolve the issue within {{days}} days, failing which I may pursue legal action.
+
+Sincerely,  
+{{sender_name}}
